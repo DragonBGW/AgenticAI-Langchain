@@ -47,7 +47,7 @@ Also, you will need OpenAI API key for running Phi framework.
 
 # 🧠 Using Hugging Face Langchain as Chatbot
 
-This is a minimal working demo of a conversational AI assistant named **Agend**, powered by [LangChain](https://www.langchain.com/), [Featherless AI](https://www.featherless.ai/), and the "mistralai/Mistral-7B-Instruct-v0.2" model.
+This is a minimal working demo of a conversational AI assistant named **Agend**, powered by [LangChain](https://www.langchain.com/), [Featherless AI](https://www.featherless.ai/), and the "mistralai/Mistral-7B-Instruct-v0.2" model. Find the code in lang.ipynb
 
 The assistant can answer natural language questions in a friendly, agent-like tone.  
 This project demonstrates how to load API keys securely from a `.env` file, set up LangChain with a third-party model provider, and simulate chat-like behavior programmatically.
